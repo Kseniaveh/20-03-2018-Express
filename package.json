@@ -1,0 +1,14 @@
+{
+  "name": "ksenia",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start" : "nodemon"
+  },
+  "author": "ksenia vehova",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^1.17.3"
+  }
+}
